@@ -6,12 +6,6 @@ First, run the development server:
 
 ```bash
 pnpm dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -21,4 +15,6 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 ## Screenshots
 User dashboard
 ![User dashboard](./public/sample-1.png)
+
+User dashboard
 ![User dashboard](./public/sample-2.png)
